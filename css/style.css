@@ -1,0 +1,16 @@
+title {text-align: center;
+font-size: x-large;
+}
+p {text-align: center;
+    font-size: large;}
+h1 {text-align: center;
+    border: solid 5px blue;
+    color: aquamarine;}
+li {text-align:center;
+    border: solid 1px blue; 
+    color: green;}
+body {background-color: darkorange;
+text-align: center;}
+img {text-align: center;
+    border-radius:70%}
+ul{text-align: center;}
